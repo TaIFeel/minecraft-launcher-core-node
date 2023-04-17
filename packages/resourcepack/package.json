@@ -4,7 +4,7 @@
   "main": "./index.ts",
   "description": "A Minecraft resource pack parser",
   "engines": {
-    "node": ">=16"
+    "node": ">=18"
   },
   "scripts": {
     "build:type": "tsc",
@@ -39,6 +39,6 @@
   },
   "homepage": "https://github.com/Voxelum/minecraft-launcher-core-node#readme",
   "devDependencies": {
-    "esbuild": "^0.17.14"
+    "esbuild": "^0.17.16"
   }
 }
